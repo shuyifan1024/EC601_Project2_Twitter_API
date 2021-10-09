@@ -18,4 +18,5 @@ Step 7: use the fundction of Pandas to show the result.
 
 result: This time, I tried using the search function, which finds tweets based on keywords. This is a function that is used very frequently. It's very difficult to write a search engine like this, and it takes a long time to search on Twitter. If you learn how to invoke the API, it will be very simple and efficient to implement the data search function. That's what API does.
 
-![image](https://user-images.githubusercontent.com/90437122/136663111-25389079-0f64-4193-8cc5-83bc419bb009.png)
+![image](https://user-images.githubusercontent.com/90437122/136663188-93df8cec-5d8d-4c24-a148-e1ec8499480f.png)
+
