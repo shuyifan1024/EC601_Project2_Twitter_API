@@ -2,6 +2,11 @@
 
 This is a basic API study assignment.
 
+Who are the users of this product？
+
+Most importantly, Twitter's product manager & Advertising Analysis Department. Analyze user reviews and exploit their potential value. Users' comments can reflect their psychological state. For example, the words sugar, fat, coke, hamburger and so on have been mentioned many times in recent comments, which can reflect that the whole public is concerned about diet health and the amount of sugar in the daily diet. For a Twitter product analyst, it might be a good idea to suggest a nutritionist's account or a diet. The advertising department can recruit more healthy food advertisements.If such an API and associated data analysis can produce the above results, then users will be more likely to browse Twitter. The reason is that Twitter can provide users with the tweets they want to see. Tik Tok has done a good job of that. Tik Tok always recommends fitness videos for me. Because that's what I want to see.There were a lot of different comments on Twitter. Some comments will be sympathetic, others will make you want to argue. Twitter's data analysis can also analyze users' mental state by the number of likes.That's why data analysis products like this is so important.
+
+
 Step 1: Create a Twitter account
 
 Step 2: create an account for Tweepy and get permission to call.
